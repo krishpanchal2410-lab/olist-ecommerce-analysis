@@ -1,0 +1,6 @@
+metric,value
+Delivered orders analyzed,96470.0
+Average delivery time (days),12.09
+Median delivery time (days),10.0
+Late delivery rate (%),6.77
+Average days late (late orders only),10.62
